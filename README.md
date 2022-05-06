@@ -44,7 +44,7 @@ Each pokemon can only learn two moves which is used in battle and carry one held
 
 ### 2. Trainer/Player
 
-Trainer will have total health that gets decreased if player loses a round.
+Trainer will have total health that gets decreased if player loses a round.  
 `Maybe will remove this if I think of something better`
 
 ### 2. Player vs Player
@@ -75,12 +75,12 @@ For basic gameplay will only have 3 pokemon maximum for now might add more later
 
 ### 2. Type buffs
 
-Depending on the number of pokemon with a specifc buff gain a buff
+Depending on the number of pokemon with a specifc buff gain a buff  
 `maybe move this`
 
 ### 2. Exp (TBD)
 
-Pokemon will get exp points after dealing the fatal blow to enemy pokemon
+Pokemon will get exp points after dealing the fatal blow to enemy pokemon  
 `Allows strats of fast evolving pokemon and having a carry or using exp specs to be even`
 
 ### 2. Evolving (TBD)
@@ -108,10 +108,10 @@ asy to get into autobatler with emphasis on some mastery
 ### 4. Core game loop
 
 ### 5. Confirmed pokemon
-
-[FIRE] Charmander line
-[WATER] Squirtle line
-[GRASS] Bulbasaur line
-[GROUND] Cubone line
-[GHOST] Ghastly line
+  
+[FIRE] Charmander line  
+[WATER] Squirtle line  
+[GRASS] Bulbasaur line  
+[GROUND] Cubone line  
+[GHOST] Ghastly line  
 
