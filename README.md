@@ -11,12 +11,12 @@ The version will indicate the stage of the games development version 0 being the
 #Roadmap
 
 Version 0 (Prototype):
-    - Pathfinding of pokemon
-    - Movable Pokemon via mouse
-    - Combat system
-    - Scalable implementation of Pokemon and moves
-    - PvE or PvP
+    - Pathfinding of pokemon  
+    - Movable Pokemon via mouse  
+    - Combat system  
+    - Scalable implementation of Pokemon and moves  
+    - PvE or PvP  
 
-Version 1 (Updated prototype):
+Version 1 (Updated prototype):  
     - N/A (New features will get added depending on future game design through
     version 0 feedback)
