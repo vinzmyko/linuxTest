@@ -109,9 +109,9 @@ asy to get into autobatler with emphasis on some mastery
 
 ### 5. Confirmed pokemon
   
-*[FIRE]* Charmander line  
-*[WATER]* Squirtle line  
-*[GRASS]* Bulbasaur line  
-*[GROUND]* Cubone line  
-*[GHOST]* Ghastly line  
+**[FIRE]** Charmander line  
+**[WATER]** Squirtle line  
+**[GRASS]** Bulbasaur line  
+**[GROUND]** Cubone line  
+**[GHOST]** Ghastly line  
 
