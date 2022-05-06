@@ -6,8 +6,6 @@ The version will indicate the stage of the games development version 0 being the
 
 ## Current version: 0
 
-## Roadmap
-
 ### Version 0 (Prototype):
 - Pathfinding of pokemon  
 - Movable Pokemon via mouse  
