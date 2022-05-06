@@ -51,21 +51,27 @@ Trainer will have total health that gets decreased if player loses a round.
 
 The player will join a game lobby, this game mode will be with a group of players with a minimum of four players.
 
-### 2. START OF A GAME (TBD)
+### 2. Start of the round (TBD)
 
 Some mechanic of choosing a starter Pokemon from multiple choices.
 
-### 2. PREPARE PHASE (TBD)
+### 2. Round Phases
+
+### 2. Prepare phase (TBD)
 
 You know your opponent who you are battling during the prepare phase, you can't see where your opponent places their Pokemon.
 
 You have 20 seconds to move your Pokemon and change what items they are holding and scout enemy Pokemon's moves and held items.
 
-### 2. BATTLE PHASE
+### 2. Battle phase
 
 Your Pokemon will automatically engage in combat with enemy Pokemon.
 
 You are able to change what moves the Pokemon are using and able to use Pokemon items if applicable.
+
+### 2. Number of Pokemon in grid
+
+For basic gameplay will only have 3 pokemon maximum for now might add more later, bigger quantity means more game design resources
 
 ### 2. Type buffs
 
@@ -80,4 +86,32 @@ Pokemon will get exp points after dealing the fatal blow to enemy pokemon
 ### 2. Evolving (TBD)
 
 Pokemon will evolving after reaching a certain level, they even can evolve mid combat
+
+### 2. Held items (TBD)
+
+Pokemon can equip a help item such as items that specificly boost that pokemon like unique items, stat specific items, evolve items, potions etc.
+
+### 2. Exclusive reskins
+
+### 2. Mastery reskin
+
+A reskin for pokemon you have played a lot of times maybe obtained through achievements eg. played charmander in 1000 games - obtain shiny charmander reskin.
+
+### 2. Rank reskin
+
+Specific reskin depending on rank
+
+### 3. Player experience
+
+asy to get into autobatler with emphasis on some mastery
+
+### 4. Core game loop
+
+### 5. Confirmed pokemon
+
+[FIRE] Charmander line
+[WATER] Squirtle line
+[GRASS] Bulbasaur line
+[GROUND] Cubone line
+[GHOST] Ghastly line
 
