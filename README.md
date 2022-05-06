@@ -1,4 +1,4 @@
-# Pokechess
+## Pokechess
 
 Personal video game project inspired by Dota Auto Chess using Pokemon Mystery Dungeon assets that aims to combine Pokemon gameplay mechanics in the style of an autobattler game.
 
@@ -16,3 +16,9 @@ The version will indicate the stage of the games development version 0 being the
 ### Version 1 (Updated prototype):  
 - N/A (New features will get added depending on future game design through
     version 0 feedback)
+
+## Test
+
+```shell
+make geth
+```
