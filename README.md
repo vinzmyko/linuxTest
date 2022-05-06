@@ -1,3 +1,5 @@
+#linuxTest
+
 Personal video game project inspired by Dota Auto Chess using Pokemon Mystery Dungeon assets that aims to combine Pokemon gameplay mechanics in the style of an autobattler game.
 
 The version will indicate the stage of the games development version 0 being the prototype for the game and the following versions being gameplay and content updates.
