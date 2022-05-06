@@ -75,8 +75,8 @@ For basic gameplay will only have 3 pokemon maximum for now might add more later
 
 ### 2. Type buffs
 
-Depending on the number of pokemon with a specifc buff gain a buff  
-`maybe move this`
+Depending on the number of pokemon with a specifc buff gain a team wide buff  
+`TBD`
 
 ### 2. Exp (TBD)
 
@@ -109,9 +109,9 @@ asy to get into autobatler with emphasis on some mastery
 
 ### 5. Confirmed pokemon
   
-[FIRE] Charmander line  
-[WATER] Squirtle line  
-[GRASS] Bulbasaur line  
-[GROUND] Cubone line  
-[GHOST] Ghastly line  
+*[FIRE]* Charmander line  
+*[WATER]* Squirtle line  
+*[GRASS]* Bulbasaur line  
+*[GROUND]* Cubone line  
+*[GHOST]* Ghastly line  
 
