@@ -4,7 +4,7 @@ Personal video game project inspired by Dota Auto Chess using Pokemon Mystery Du
 
 The version will indicate the stage of the games development version 0 being the prototype for the game and the following versions being gameplay and content updates.
 
-## Current version: 0
+## Current version: 0.0
 
 ### Version 0 (Prototype):
 - Pathfinding of pokemon  
