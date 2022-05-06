@@ -21,37 +21,63 @@ The version will indicate the stage of the games development version 0 being the
 
 ### 1. Project Description
 
-Pokechess, an autobatler game that combines Pokemon gameplay mechanics (evolving, levels, moves) with autobatler mechanics (prepare/battle phase, AI vs AI) with unique twists (active player interaction).
+Pokechess, an autobatler game that combines Pokemon gameplay mechanics (evolving, levels, moves) with autobatler mechanics (prepare/battle phase, AI vs AI, specific unit buffs depending on type, rng items) with unique twists (active player interaction).
 
 ### 2. Game Mechanics (TBD)
 
-### 2.1 Player vs Player
-
-The player will join a game lobby, this game mode will be with a group of players with a minimum of four players.
-
-### 2.2 Pokemon
+### 2. Pokemon
 
 The pokemon will have the following stats:
 - Lvl
 - Hp
 - Energy
+- Type
 - Att
 - Special Att
 - Def
 - Special Def
 
-### 2.1 START OF A GAME (TBD)
+Each pokemon will have different stats depending on the pokemon.
+
+Each pokemon can only learn two moves which is used in battle and carry one held item.
+`Maybe have one basic move attack and two moves that the player can swap through, can actually attack ghost type pokemon`
+
+### 2. Trainer/Player
+
+Trainer will have total health that gets decreased if player loses a round.
+`Maybe will remove this if I think of something better`
+
+### 2. Player vs Player
+
+The player will join a game lobby, this game mode will be with a group of players with a minimum of four players.
+
+### 2. START OF A GAME (TBD)
 
 Some mechanic of choosing a starter Pokemon from multiple choices.
 
-### 2.2 PREPARE PHASE (TBD)
+### 2. PREPARE PHASE (TBD)
 
 You know your opponent who you are battling during the prepare phase, you can't see where your opponent places their Pokemon.
 
 You have 20 seconds to move your Pokemon and change what items they are holding and scout enemy Pokemon's moves and held items.
 
-### 2.3 BATTLE PHASE
+### 2. BATTLE PHASE
 
 Your Pokemon will automatically engage in combat with enemy Pokemon.
 
 You are able to change what moves the Pokemon are using and able to use Pokemon items if applicable.
+
+### 2. Type buffs
+
+Depending on the number of pokemon with a specifc buff gain a buff
+`maybe move this`
+
+### 2. Exp (TBD)
+
+Pokemon will get exp points after dealing the fatal blow to enemy pokemon
+`Allows strats of fast evolving pokemon and having a carry or using exp specs to be even`
+
+### 2. Evolving (TBD)
+
+Pokemon will evolving after reaching a certain level, they even can evolve mid combat
+
