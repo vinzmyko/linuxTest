@@ -1,1 +1,0 @@
-This is a new text so that I can check git integration with the SSH way rather than the HTTP way so I don't need to authenticate via username and password each time
